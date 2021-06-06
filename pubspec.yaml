@@ -1,8 +1,8 @@
-name: indonesia
+name: tanggal_indonesia
 description: A starting point for Dart libraries or applications.
-version: 1.0.1
-homepage: https://github.com/yudaprama/indonesia.dart.git
-author: Yuda Prama <yudapramad@gmail.com>
+version: 1.0.2
+homepage: https://github.com/coimstark/tanggal_indonesia.dart.git
+author: Coim Stark <coim@m-oga.id>
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
